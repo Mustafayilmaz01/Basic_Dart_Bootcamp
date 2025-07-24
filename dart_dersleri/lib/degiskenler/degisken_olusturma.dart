@@ -6,4 +6,10 @@ void main(){
   String urunTedarikci = "Rolex";
 
   print("Urun Id: $urunId");
+
+int a = 100;
+int b=  200;
+
+print("$a ve $b'ün toplamı: ${a+b}'dür.");
+
 }
