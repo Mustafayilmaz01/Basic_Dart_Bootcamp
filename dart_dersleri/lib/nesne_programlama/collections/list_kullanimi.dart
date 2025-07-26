@@ -13,7 +13,7 @@ void main(){
   print("Boş kontrol: ${meyveler.isEmpty}");
 
   for(var meyve in meyveler){
-    print("Sonuc: $meyve");
+    print("Sonuc: $meyve"); 
   }
 
 
